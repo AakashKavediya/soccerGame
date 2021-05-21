@@ -130,6 +130,7 @@ function draw() {
     obs1.velocityX = 0;
     textSize(30);
     text("You Loss", 580, 490);
+    textxcolor = "red"
   }
   // text("You loose", 200, 300);
 
